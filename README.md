@@ -1,2 +1,4 @@
 # Dashboard-Siniestralidad
 Explora y analiza el índice de siniestralidad de las ARS en RD. Visualizaciones interactivas, predicciones SARIMA y filtros personalizables. Ideal para analistas del sector salud.
+
+Este dashboard interactivo ofrece una visión detallada y dinámica del índice de siniestralidad en las Administradoras de Riesgos de Salud (ARS) del régimen contributivo del Sistema Dominicano de Salud (SFS) durante el período 2007-2023. Utilizando Dash y Plotly, la aplicación permite explorar tendencias históricas, comparar el desempeño entre diferentes tipos de ARS (públicas, privadas y de autogestión), y realizar predicciones futuras mediante modelos SARIMA. Ideal para analistas, investigadores y tomadores de decisiones en el sector salud dominicano, este proyecto facilita la comprensión y el análisis de datos complejos a través de visualizaciones claras y filtros interactivos.
